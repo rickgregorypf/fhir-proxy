@@ -36,7 +36,7 @@ HealthArchitectures | FHIR-Proxy
 ---
 
 ## Setup 
-Please note you should deploy these components into a tenant and subscriotion where you have appropriate permissions to create and manage Application Registrations (ie Application Adminitrator RBAC Role in AAD), and can deploy Resources at the Subscription Scope (Contributor role or above). 
+Please note you should deploy these components into a tenant and subscription where you have appropriate permissions to create and manage Application Registrations (ie Application Adminitrator RBAC Role in AAD), and can deploy Resources at the Subscription Scope (Contributor role or above). 
 
 Launch Azure Cloud Shell (Bash Environment)  
   
